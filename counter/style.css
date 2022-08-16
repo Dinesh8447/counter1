@@ -1,0 +1,38 @@
+div{
+    word-spacing: 50px;
+
+    text-align: center;
+}
+  
+button{
+    font-size: 50px;
+    border: solid ;
+    border-radius: 10px;
+    
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-size: 100px;
+}
+#txt{
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.siv{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    position: relative;
+    left: 40%;
+    border-radius: 10%;
+    border: solid springgreen;
+}
+
+.hidden{
+    display: none;
+
+}
